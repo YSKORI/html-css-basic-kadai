@@ -1,0 +1,29 @@
+h1 {
+/* 以下はキーワードで色を指定しています */
+  font-size: 40px;
+  text-shadow: 1px 1px 2px gray;
+  text-align:center;
+  letter-spacing: 1.5em;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+body {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Arial", "Meiryo",sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+ }
+
+.text-skyblue {
+  color: skyblue;
+}  
+
+.text-pink {
+  color: rgb(255, 192, 203);
+}
+ 
+#parent p {
+  font-weight: bold;
+}
